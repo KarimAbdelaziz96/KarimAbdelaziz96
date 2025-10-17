@@ -75,22 +75,106 @@ class KarimAbdelaziz extends FlutterDeveloper {
 
 ---
 
-## 💼 Featured Projects
+# 📲 My Applications
 
-### 📱 **E-Commerce Master App**
-A complete Flutter e-commerce solution with WooCommerce integration, featuring seamless shopping experience, secure payments, and admin panel.
+## 🛍️ E-Commerce Apps
 
-**Tech:** `Flutter` `WooCommerce` `Firebase` `Provider` `REST API`
+### 🛒 Buy Luxury
+A **premium WooCommerce-based mobile application** crafted for luxury product brands.  
+It delivers an **elegant and intuitive shopping experience** with real-time synchronization, secure checkout, and modern UI design.  
+Users can browse curated collections, add products to wishlist or cart, and complete purchases seamlessly using **Firebase authentication** and **WooCommerce integration**.  
 
-### 🎬 **StreamFlix - IPTV Streaming**
-Advanced IPTV streaming application with live TV, VOD, series, and multi-screen support. Optimized for performance and user experience.
+**✨ Key Features:**
+- Full WooCommerce API integration  
+- Firebase authentication and cloud data sync  
+- Product filtering, categories, and wishlist  
+- Secure checkout and order tracking  
+- Modern and responsive UI/UX  
 
-**Tech:** `Flutter` `VLC Player` `M3U Parser` `Firebase Auth` `Cloud Storage`
+**🧠 Tech Stack:** Flutter · Firebase · WooCommerce  
 
-### 🛒 **QuickShop - Social Commerce**
-Social commerce platform integrating shopping with social features, real-time chat, and personalized recommendations.
+---
 
-**Tech:** `Flutter` `Firebase` `Cloud Firestore` `Cloud Messaging` `Stripe`
+### 👔 Asiya
+A **men’s fashion e-commerce app** focused on simplicity, speed, and seamless user experience.  
+It enables users to **explore the latest fashion collections**, manage their profiles, and purchase items directly through an optimized Flutter front-end connected to **WooCommerce** backend.  
+
+**✨ Key Features:**
+- Real-time WooCommerce store integration  
+- Product browsing and quick search  
+- Favorites and cart management  
+- Firebase authentication and user data  
+- Elegant dark/light mode UI  
+
+**🧠 Tech Stack:** Flutter · WooCommerce  
+
+---
+
+## 📺 IPTV Apps
+
+### ▶️ Moshahid Xstream Player
+An **advanced IPTV player** supporting **Live TV, VOD, and M3U playlists**, built with performance and reliability in mind.  
+The app offers smooth video playback using **Better Player** and Firebase for authentication, analytics, and dynamic configuration.  
+
+**✨ Key Features:**
+- Live TV, Movies, and Series streaming  
+- Playlist (M3U) parser and auto-updates  
+- Resume playback & favorites list  
+- Firebase authentication and cloud sync  
+- Optimized UI for mobile and TV screens  
+
+**🧠 Tech Stack:** Flutter · Firebase · Better Player  
+
+---
+
+### 🎥 Golden Contract Xstream Player
+A **custom IPTV solution** providing access to live channels, movies, and on-demand content.  
+Built with **Flutter** and integrated with **Firebase backend**, ensuring high performance, scalability, and real-time content management.  
+
+**✨ Key Features:**
+- M3U playlist integration  
+- Multi-screen support  
+- Real-time data and content updates  
+- Smooth playback using Better Player  
+- Modern and user-friendly interface  
+
+**🧠 Tech Stack:** Flutter · Firebase · Better Player  
+
+---
+
+### 🖥️ Mansory Xstream Player
+A **premium IPTV streaming platform** designed for stability, elegant design, and seamless playback experience.  
+The app provides users with advanced control features, synchronized playlists, and a modern interface for effortless navigation.  
+
+**✨ Key Features:**
+- Live TV & VOD streaming with HD playback  
+- Firebase authentication and analytics  
+- Playlist management and caching system  
+- Multi-device synchronization  
+- Sleek and modern Flutter UI  
+
+**🧠 Tech Stack:** Flutter · Firebase · Better Player  
+
+---
+
+## 💬 Social Apps
+
+### 💭 HooChat
+A **real-time social chat application** built to connect users instantly through private and group chats.  
+It supports **media sharing**, **typing indicators**, **online presence tracking**, and **push notifications** for a smooth communication experience.  
+
+**✨ Key Features:**
+- Real-time one-to-one & group chats  
+- Media and file sharing (images, videos, documents)  
+- Online/offline user status tracking  
+- Push notifications using Firebase Cloud Messaging  
+- End-to-end synchronization with Firebase Firestore  
+
+**🧠 Tech Stack:** Flutter · Firebase (Auth · Firestore · Cloud Messaging · Storage)  
+
+---
+
+✨ **All applications** are fully developed using **Flutter** and integrated with **scalable cloud solutions (Firebase, WooCommerce, REST APIs)** to ensure high performance, security, and a modern user experience across all devices.
 
 ### 🏢 **Enterprise Management Suite**
 Comprehensive business management solution with inventory, CRM, and analytics modules for small to medium enterprises.
