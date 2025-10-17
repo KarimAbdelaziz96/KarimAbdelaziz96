@@ -26,7 +26,8 @@ class KarimAbdelaziz {
     'Firebase Integration',
     'WooCommerce Apps',
     'IPTV Streaming',
-    'E-commerce Solutions'
+    'E-commerce Solutions',
+    'Social Applications'
   ];
   
   String get passion => 'Building amazing mobile experiences';
