@@ -42,7 +42,8 @@ class KarimAbdelaziz extends FlutterDeveloper {
     }
   }
 }
-🛠 Tech Stack
+------------------
+##🛠 Tech Stack
 <div align="center">
 Core Technologies
 https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
