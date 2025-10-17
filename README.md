@@ -7,10 +7,10 @@
 
 **Crafting exceptional mobile experiences with Flutter & Dart**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-karimabdelaziz.dev-42A5F5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://karimabdelaziz.dev)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karimabdelaziz)
-[![Upwork](https://img.shields.io/badge/🚀_Upwork-Profile-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/karimabdelaziz)
-[![Fiverr](https://img.shields.io/badge/⭐_Fiverr-Profile-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/karimabdelaziz0)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-karimabdelaziz.dev-42A5F5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://karimabdelaziz.me)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karim-el-ghabaty-3)
+[![Upwork](https://img.shields.io/badge/🚀_Upwork-Profile-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~015297df52259c01c7?mp_source=share)
+[![Fiverr](https://img.shields.io/badge/⭐_Fiverr-Profile-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/R75axgl)
 
 </div>
 
