@@ -1,21 +1,20 @@
-# 👋 Karim Abdelaziz - Flutter Developer | Mobile App Architect
-
+👋 Karim Abdelaziz - Flutter Developer | Mobile App Architect
 <div align="center">
+https://img.shields.io/badge/Flutter-Developer-42A5F5?style=for-the-badge&logo=flutter
+https://img.shields.io/badge/Mobile-Architect-0175C2?style=for-the-badge&logo=dart
 
-![Flutter Developer](https://img.shields.io/badge/Flutter-Developer-42A5F5?style=for-the-badge&logo=flutter)
-![Mobile Architect](https://img.shields.io/badge/Mobile-Architect-0175C2?style=for-the-badge&logo=dart)
+Crafting exceptional mobile experiences with Flutter & Dart
 
-**Crafting exceptional mobile experiences with Flutter & Dart**
+https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-karimabdelaziz.dev-42A5F5?style=for-the-badge&logo=google-chrome&logoColor=white
+https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/%F0%9F%9A%80_Upwork-Profile-6FDA44?style=for-the-badge&logo=upwork&logoColor=white
+https://img.shields.io/badge/%E2%AD%90_Fiverr-Profile-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white
 
 </div>
-
----
-
-## 🎯 About Me
-
+🎯 About Me
 I'm a passionate Flutter developer dedicated to building high-performance, scalable mobile applications that deliver exceptional user experiences. With a strong focus on clean architecture, optimal performance, and beautiful UI/UX, I specialize in creating solutions that not only meet but exceed user expectations. My expertise spans across e-commerce, streaming platforms, and social applications, always prioritizing code quality and maintainability.
 
-```dart
+dart
 class KarimAbdelaziz extends FlutterDeveloper {
   final String passion = 'Building amazing mobile experiences';
   final double expertiseLevel = 99.9;
@@ -38,32 +37,18 @@ class KarimAbdelaziz extends FlutterDeveloper {
       return deploy(amazingApp);
     } catch (e) {
       debugPrint('Challenge accepted! 💪');
-      return buildApp(requirements); // Try again, but better!
+      return buildApp(requirements);
     }
   }
 }
-------------------
-##🛠 Tech Stack
+🛠 Tech Stack
 <div align="center">
 Core Technologies
-https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
-https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
-https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
-https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white
-
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /> <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
 Development Tools
-https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white
-https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 State Management & Architecture
-https://img.shields.io/badge/Provider-8E44AD?style=for-the-badge
-https://img.shields.io/badge/Bloc-0175C2?style=for-the-badge
-https://img.shields.io/badge/GetX-0081CB?style=for-the-badge
-https://img.shields.io/badge/Riverpod-0E84C6?style=for-the-badge
-
-</div>
+<img src="https://img.shields.io/badge/Provider-8E44AD?style=for-the-badge" alt="Provider" /> <img src="https://img.shields.io/badge/Bloc-0175C2?style=for-the-badge" alt="Bloc" /> <img src="https://img.shields.io/badge/GetX-0081CB?style=for-the-badge" alt="GetX" /> <img src="https://img.shields.io/badge/Riverpod-0E84C6?style=for-the-badge" alt="Riverpod" /></div>
 💼 Featured Projects
 📱 E-Commerce Master App
 A complete Flutter e-commerce solution with WooCommerce integration, featuring seamless shopping experience, secure payments, and admin panel.
@@ -86,12 +71,7 @@ Comprehensive business management solution with inventory, CRM, and analytics mo
 Tech: Flutter Firebase Bloc Charts Local Database
 
 📈 GitHub Stats
-<div align="center">
-https://github-readme-stats.vercel.app/api?username=karimabdelaziz&show_icons=true&theme=flutter&hide_border=true&bg_color=00000000
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=karimabdelaziz&layout=compact&theme=flutter&hide_border=true&bg_color=00000000
-
-</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KarimAbdelaziz96&show_icons=true&theme=flutter&hide_border=true&bg_color=00000000" alt="GitHub Stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimAbdelaziz96&layout=compact&theme=flutter&hide_border=true&bg_color=00000000" alt="Top Languages" /></div>
 🌐 Connect With Me
 <div align="center">
 https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-karimabdelaziz.dev-42A5F5?style=for-the-badge&logo=google-chrome&logoColor=white
@@ -105,9 +85,5 @@ https://img.shields.io/badge/%F0%9F%93%A7_Email-Contact-D14836?style=for-the-bad
 Let's build something amazing together! 🚀
 "Quality is not an act, it is a habit." - Aristotle
 
-https://komarev.com/ghpvc/?username=karimabdelaziz&color=42A5F5&style=flat-square
-
-</div>
+<img src="https://komarev.com/ghpvc/?username=KarimAbdelaziz96&color=42A5F5&style=flat-square" alt="Profile Views" /></div>
 <sub>✨ Crafted with Flutter love and Dart precision ✨</sub>
-
-text
