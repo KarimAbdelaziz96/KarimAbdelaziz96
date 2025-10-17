@@ -1,35 +1,33 @@
-# 👋 Hi, I'm Karim Abdelaziz
+# 👋 Karim Abdelaziz - Flutter Developer
 
-**Flutter Developer | Mobile App Engineer**  
-Building fast, scalable apps with **Flutter**, **Firebase**, and **WooCommerce**. Passionate about clean code and great UX.
+<div align="center">
 
----
+**Senior Flutter Developer | Mobile App Architect**  
+*Building exceptional mobile experiences with Flutter & Firebase*
 
-## 🔭 Featured Projects
-- **Buy Luxury** — Full WooCommerce mobile app (Flutter + Firebase).  
-- **Asiya** — Men’s fashion e-commerce app (Flutter + WooCommerce).  
-- **Moshahid Xstream Player** — IPTV streaming app with Firebase auth and Better Player.
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-karimabdelaziz.dev-blue)](https://karimabdelaziz.dev)
+[![Upwork](https://img.shields.io/badge/💼_Upwork-Profile-green)](https://www.upwork.com/freelancers/karimabdelaziz)
+[![Fiverr](https://img.shields.io/badge/🎯_Fiverr-Profile-orange)](https://www.fiverr.com/karimabdelaziz0)
+[![LinkedIn](https://img.shields.io/badge/📱_LinkedIn-Connect-blue)](https://www.linkedin.com/in/karimabdelaziz)
 
----
-
-## 🛠️ Tech & Tools
-Flutter • Dart • Firebase • WooCommerce • REST API • Git • Android / iOS
+</div>
 
 ---
 
-## 📂 Portfolio & Links
-- Website / Portfolio: `https://karimabdelaziz.dev`  
-- Upwork: `https://www.upwork.com/freelancers/karimabdelaziz`  
-- Fiverr: `https://www.fiverr.com/karimabdelaziz0`  
-- LinkedIn: `https://www.linkedin.com/in/karimabdelaziz`
+## 🚀 About Me
 
----
+I'm a passionate Flutter developer with expertise in building high-performance, scalable mobile applications. I specialize in creating seamless user experiences with clean architecture and optimal performance.
 
-## 📫 Contact
-Prefer to be contacted via Upwork or Fiverr for projects.  
-Email: `karimabdelaziz.dev@gmail.com` (optional)
-
----
-
-> _Available for freelance work — Open to collaborate on Flutter & WooCommerce projects._
-
+```dart
+class KarimAbdelaziz {
+  final String role = 'Senior Flutter Developer';
+  final List<String> specialties = [
+    'Flutter Development',
+    'Firebase Integration',
+    'WooCommerce Apps',
+    'IPTV Streaming',
+    'E-commerce Solutions'
+  ];
+  
+  String get passion => 'Building amazing mobile experiences';
+}
