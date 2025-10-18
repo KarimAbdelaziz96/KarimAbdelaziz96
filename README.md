@@ -187,9 +187,9 @@ Comprehensive business management solution with inventory, CRM, and analytics mo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KarimAbdelaziz96&show_icons=true&theme=flutter&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=KarimAbdelaziz96&show_icons=true&icon_color=5865F2&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimAbdelaziz96&layout=compact&theme=flutter&hide_border=true&bg_color=00000000" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimAbdelaziz96&layout=compact&icon_color=5865F2&hide_border=true&bg_color=00000000" alt="Top Languages" />
 
 </div>
 
